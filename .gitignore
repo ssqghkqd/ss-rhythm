@@ -1,0 +1,11 @@
+.idea
+开发日记/
+.vscode/
+*.code-workspace
+build/
+
+activate
+项目要求.txt
+参考文档/
+
+CONTRIBUTING.md
